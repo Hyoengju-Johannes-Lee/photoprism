@@ -2116,7 +2116,7 @@ msgstr "상태"
 
 #: src/pages/settings/advanced.vue:374
 msgid "Static Size Limit: %{n}px"
-msgstr "스태틱 크지 제한: %{n}px"
+msgstr "스태틱 크기 제한: %{n}px"
 
 #: src/dialog/photo/files.vue:38
 msgid "Status"
